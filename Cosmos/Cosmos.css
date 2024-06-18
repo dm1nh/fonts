@@ -1,0 +1,162 @@
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Cosmos-Thin.woff2') format('woff2'), url('TTF/Cosmos-Thin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Cosmos-ThinItalic.woff2') format('woff2'), url('TTF/Cosmos-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Cosmos-ExtraLight.woff2') format('woff2'), url('TTF/Cosmos-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Cosmos-ExtraLightItalic.woff2') format('woff2'), url('TTF/Cosmos-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Cosmos-Light.woff2') format('woff2'), url('TTF/Cosmos-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Cosmos-LightItalic.woff2') format('woff2'), url('TTF/Cosmos-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Cosmos-Regular.woff2') format('woff2'), url('TTF/Cosmos-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Cosmos-Italic.woff2') format('woff2'), url('TTF/Cosmos-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Cosmos-Medium.woff2') format('woff2'), url('TTF/Cosmos-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Cosmos-MediumItalic.woff2') format('woff2'), url('TTF/Cosmos-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Cosmos-SemiBold.woff2') format('woff2'), url('TTF/Cosmos-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Cosmos-SemiBoldItalic.woff2') format('woff2'), url('TTF/Cosmos-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Cosmos-Bold.woff2') format('woff2'), url('TTF/Cosmos-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Cosmos-BoldItalic.woff2') format('woff2'), url('TTF/Cosmos-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Cosmos-ExtraBold.woff2') format('woff2'), url('TTF/Cosmos-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Cosmos-ExtraBoldItalic.woff2') format('woff2'), url('TTF/Cosmos-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Cosmos-Heavy.woff2') format('woff2'), url('TTF/Cosmos-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cosmos Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Cosmos-HeavyItalic.woff2') format('woff2'), url('TTF/Cosmos-HeavyItalic.ttf') format('truetype');
+}
